@@ -1,6 +1,6 @@
 # Covid Impact Analysis
 
-**Date: June 2024**
+**Date: May 2024**
 
 
 | Platform      | Link                                                                                                                                    |

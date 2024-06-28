@@ -26,3 +26,9 @@ layout: default
 ![covid](covid.png)
 
 ---
+
+## [Economic Indicators Analysis](indicators.md)
+
+![indicators](indicators.png)
+
+---
