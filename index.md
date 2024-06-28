@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Pinar's Portfolio
+# Projects
 
 ### [Netflix Content Library Analysis](netflix.md)
 
