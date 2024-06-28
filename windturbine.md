@@ -1,4 +1,4 @@
-> # U.S. Wind Turbine Analysis
+# U.S. Wind Turbine Analysis
 
 **Jun 2024 - Jun 2024**
 
