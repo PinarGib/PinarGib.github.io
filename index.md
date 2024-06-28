@@ -32,3 +32,9 @@ layout: default
 ![indicators](indicators.png)
 
 ---
+
+## [Coffee Shop Sales Analysis](coffee.md)
+
+![coffee shop](coffee.png)
+
+---
