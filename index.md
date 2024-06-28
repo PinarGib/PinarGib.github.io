@@ -4,8 +4,8 @@ layout: default
 
 # Pinar's Portfolio
 
-### Netflix Content Library Analysis
+### [Netflix Content Library Analysis](netflix.md)
 
-![Netflix Analysis](plot.png)
 
-[See more](netflix.md)
+
+![Netflix Analysis](plotwordmap.png)
