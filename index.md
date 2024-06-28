@@ -20,3 +20,9 @@ layout: default
 ![windturbine](windturbine.png)
 
 ---
+
+## [Covid Impact Analysis](covid.md)
+
+![covid](covid.png)
+
+---
