@@ -15,7 +15,7 @@ layout: default
 ---
 
 
-## [US Wind Turbine Market Analysis](windturbine.md)
+## [U.S. Wind Turbine Market Analysis](windturbine.md)
 
 ![windturbine](windturbine.png)
 
