@@ -9,3 +9,8 @@ layout: default
 
 
 ![Netflix Analysis](plotwordmap.png)
+
+
+### [US Wind Turbine Market Analysis](windturbine.md)
+
+![windturbine](windturbine.png)
