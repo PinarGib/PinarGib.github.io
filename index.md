@@ -50,3 +50,9 @@ layout: default
 ![Sales Analysis](sales.png)
 
 ---
+
+## [Loan Portfolio Analysis](loan.md)
+
+![Loan](loan.png)
+
+---
