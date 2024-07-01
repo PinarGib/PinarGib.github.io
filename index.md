@@ -44,3 +44,9 @@ layout: default
 ![Gender Pay Gap](gender.png)
 
 ---
+
+## [Sales Analysis for a Food Distribution Company](food.md)
+
+![Sales Analysis](sales.png)
+
+---
