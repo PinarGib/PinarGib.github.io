@@ -56,3 +56,9 @@ layout: default
 ![Loan](loan.png)
 
 ---
+
+## [Kickstarter Campaign Success Analysis](kickstarter.md)
+
+![kickstarter](kickstarter.png)
+
+---
