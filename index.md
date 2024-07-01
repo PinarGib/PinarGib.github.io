@@ -38,3 +38,9 @@ layout: default
 ![coffee shop](coffee.png)
 
 ---
+
+## [Gender Pay Gap Analysis](gender.md)
+
+![Gender Pay Gap](gender.png)
+
+---
