@@ -8,4 +8,8 @@
 
 Analysis of sales data from 2012 to 2014 to provide valuable insights into the client's products, sales, and marketing strategies, used Power Query to transform the data and visualised with Power BI.
 
-**Skills:** Microsoft Power Query · Power BI
+![Sales1](sales1.png)
+
+![Sales2](sales2.png)
+
+**Skills:** Microsoft Power Query · Power BI · Data Modelling

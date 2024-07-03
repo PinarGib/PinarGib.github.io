@@ -6,4 +6,13 @@ Utilised Excel for data cleaning, wrangling, and exploratory analysis. Created v
 
 ![Kickstarter](kickstarter2.png)
 
+![Kickstarter](kickstarter6.png)
+
+![Kickstarter](kickstarter5.png)
+
+![Kickstarter](kickstarter4.png)
+
+![Kickstarter](kickstarter3.png)
+
+
 **Skills:** Excel Formulas, Microsoft Excel, Data Analytics, Pivot Tables
