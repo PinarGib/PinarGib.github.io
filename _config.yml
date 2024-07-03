@@ -1,13 +1,13 @@
 title: Pinar Gibson
 description: |
-  <p style="font-size: 12px;"><b>I am a junior data analyst with a strong background in broadcast media. I thrive on extracting insights from complex datasets. My meticulous approach to problem-solving and keen eye for detail ensure precision and efficiency throughout the analytics workflow. Known for my collaborative spirit, I foster a culture of teamwork and actively share my knowledge. I am passionate about leveraging my unique blend of analytical skills and media industry experience to drive data-driven decision-making across diverse sectors.</b></p>
+  <p style="font-size: 11px;"><b>I am a junior data analyst with a strong background in broadcast media. I thrive on extracting insights from complex datasets. My meticulous approach to problem-solving and keen eye for detail ensure precision and efficiency throughout the analytics workflow. Known for my collaborative spirit, I foster a culture of teamwork and actively share my knowledge. I am passionate about leveraging my unique blend of analytical skills and media industry experience to drive data-driven decision-making across diverse sectors.</b></p>
   
-  <p style="font-size: 12px;"><b>SKILLS</b></p>
-  <ul style="font-size: 12px;">
-  <li>Analytics: Data Extraction, Cleaning and Wrangling, Modelling, Analysis, Visualisation, Dashboards, Presentation</li>
-  <li>Tools and Languages: Microsoft Excel, Power BI, Power Query, Tableau, SQL, Python, Pandas, Matplotlib, Plotly, Seaborn, Scikit-Learn, Beautifulsoup</li>
+  <p style="font-size: 11px;"><b>SKILLS</b></p>
+  <ul style="font-size: 11px;">
+  <li><b>Analytics: Data Extraction, Cleaning and Wrangling, Modelling, Analysis, Visualisation, Dashboards, Presentation</b></li>
+  <li><b>Tools and Languages: Microsoft Excel, Power BI, Power Query, Tableau, SQL, Python, Pandas, Matplotlib, Plotly, Seaborn, Scikit-Learn, Beautifulsoup</b></li>
   </ul>
-  <p><a href="https://www.linkedin.com/in/pinar-gibson/">View My LinkedIn Profile</a></p>
+  <p style="font-size: 13px;"><a href="https://www.linkedin.com/in/pinar-gibson/">View My LinkedIn Profile</a></p>
 
 google_analytics:
 theme: jekyll-theme-minimal
