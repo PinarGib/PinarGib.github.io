@@ -4,7 +4,7 @@
 
 | Platform      | Link                                                                                                                                    |
 |---------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| Tableau       | [Economic Indicators Analysis](https://public.tableau.com/app/profile/pinar.gibson/viz/APIlab_17200059969890/EconomicIndicators)          |
+| Tableau       | [Economic Indicators Analysis - API](https://public.tableau.com/app/profile/pinar.gibson/viz/APIlab_17200059969890/EconomicIndicators)          |
 
 Tasked with analysing the behaviour of various economic indicators during the COVID-19 pandemic years (2020 onwards), I utilised data from Alpha Vantage. This project aimed to provide insights into the economic impact of the pandemic by extracting relevant data and creating detailed visualizations.
 
