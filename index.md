@@ -17,19 +17,19 @@ layout: default
 
 ## [U.S. Wind Turbine Market Analysis](windturbine.md)
 
-![windturbine](windturbine.png)
+![windturbine](windturbine1.png)
 
 ---
 
 ## [Covid Impact Analysis](covid.md)
 
-![covid](covid.png)
+![covid](Covid1.png)
 
 ---
 
 ## [Economic Indicators Analysis](indicators.md)
 
-![indicators](indicators.png)
+![indicators](indicators1.png)
 
 ---
 

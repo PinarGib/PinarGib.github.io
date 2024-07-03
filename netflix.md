@@ -20,6 +20,8 @@ Utilized Python pandas library for data cleaning, preprocessing, and transformin
 - Insights into the attributes of highly-rated content, such as genre, release year, and type (movie or TV show).
 - The project provided actionable recommendations for content acquisition and production strategies to optimize viewer engagement and satisfaction.
 
+![NetflixDashboard](NetflixDashboard.png)
+
 ![Netflix](Netflix.png)
 
 **Skills:** Python · Seaborn · Tableau · Data Analytics · SQLite · Web Scraping
