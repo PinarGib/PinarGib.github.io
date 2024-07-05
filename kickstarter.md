@@ -15,4 +15,4 @@ Utilised Excel for data cleaning, wrangling, and exploratory analysis. Created v
 ![Kickstarter](kickstarter3.png)
 
 
-**Skills:** Excel Formulas, Microsoft Excel, Data Analytics, Pivot Tables
+**Skills:** Excel Formulas · Microsoft Excel · Data Analytics · Pivot Tables

@@ -12,4 +12,4 @@ Analysed a midsize bank's loan portfolio to determine which types of lending and
 
 ![Loan2](loan2.png)
 
-**Skills:** Data Analytics, Microsoft Power Query, Power BI  
+**Skills:** Data Analytics · Microsoft Power Query · Power BI  
