@@ -16,6 +16,8 @@ Utilized Python pandas library for data cleaning, preprocessing, and transformin
 
 ![Netflix](Netflix.png)
 
+![Netflix](plot.png)
+
 **Key insights derived from the analysis include:**
 
 - Identification of top-performing genres and target age groups with their growth trends over time across continents.

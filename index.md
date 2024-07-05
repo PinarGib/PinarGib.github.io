@@ -10,7 +10,7 @@ layout: default
 
 **Skills:** Python · Seaborn · Tableau · Data Analytics · SQLite · Web Scraping
 
-![Netflix Analysis](plotwordmap.png)
+![Netflix Analysis](netflix1.png)
 
 ---
 
