@@ -8,8 +8,9 @@
 
 Analysed a midsize bank's loan portfolio to determine which types of lending and customer profiles the bank should potentially stop offering or lending to. Utilised Power BI for data cleaning and wrangling. Created interactive dashboards in Power BI to present findings.
 
-![Loan1](loan1.png)
+[![Loan1](loan1.png)](loan1.png "Loan 1" data-lightbox="image-16")
 
-![Loan2](loan2.png)
+[![Loan2](loan2.png)](loan2.png "Loan 2" data-lightbox="image-17")
+
 
 **Skills:** Data Analytics · Microsoft Power Query · Power BI  
