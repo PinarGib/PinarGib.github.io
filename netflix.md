@@ -26,9 +26,7 @@ Utilized Python pandas library for data cleaning, preprocessing, and transformin
 
 **Skills:** Python · Seaborn · Tableau · Data Analytics · SQLite · Web Scraping
 
-## Please visit my Jupyter notebook for in-depth Python analysis
-
-## Summary of Steps
+## Summary of Steps (Python)
 
 ### Data Loading and Initial Inspection
 - **Loaded the Dataset**: Used `pd.read_csv` to load titles dataset into a DataFrame.
