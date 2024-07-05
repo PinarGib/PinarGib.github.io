@@ -16,7 +16,7 @@ Utilized Python pandas library for data cleaning, preprocessing, and transformin
 
 ![Netflix](Netflix.png)
 
-![Netflix](plot.png)
+![Netflix](netflix1.png)
 
 **Key insights derived from the analysis include:**
 
