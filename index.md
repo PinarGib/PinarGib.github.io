@@ -27,7 +27,7 @@ layout: default
 
 **Skills:** Data Visualization · Tableau · Data Cleaning · Data Analysis · Storytelling
 
-![covid](Covid1.png)
+![covid](CovidDashboard.png)
 
 ---
 
