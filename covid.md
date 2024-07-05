@@ -26,8 +26,8 @@ This experience developed my skills in data visualization, storytelling, and usi
 - Analysis of the relation between vaccination rates and the death rates.
 - Insights into the common characteristics of the most affected countries.
 
-![CovidDashboard](covidmap.png)
+[![CovidDashboard](covidmap.png)](covidmap.png "Covid Dashboard" data-lightbox="image-1" data-title="Covid Dashboard Map")
 
-![CovidDashboard](covid.png)
+[![CovidDashboard](covid.png)](covid.png "Covid Dashboard" data-lightbox="image-2" data-title="Covid Dashboard")
 
 **Skills:** Data Visualization · Tableau · Data Cleaning · Data Analysis · Storytelling
